@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(224, 226, 243);    
+       
+}
+
+#divTestimonials {
+    background-color: rgb(200,200,200);
+}
+
+#divTestimonials b {
+    color:  rgb(100, 111, 195);  
+}
+
+#divProducts {
+    background-color: white;
+}
+
+#divProducts h2 {
+    color: rgb(100, 111, 195);  
+}
+
+#divProducts span {
+    color: red;
+}
+
+#divCopyright {
+    color: black;
+    font-size: 7pt;
+}

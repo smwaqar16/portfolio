@@ -1,0 +1,46 @@
+@font-face {
+font-family: 'Shrikhand-Regular';
+src: url('Shrikhand-Regular.ttf');
+}
+
+h1, h2,a {
+font-family:Shrikhand-Regular, Georgia, serif;}
+body{
+     background: url(Wooden-Background.jpg);
+     
+}
+
+a  { 
+       color: black;
+}
+.HTMLAssignments{
+       color: white;
+    margin: 100px 7em;
+}
+.CSSAssignments{
+      margin: -21em 31em;
+    color: white;
+}
+.GOOGLE{
+          margin: 7em 53em;
+    color: white;;
+}
+.GMAIL{
+   margin: -6em 16em;
+    color: white;
+}
+.BUILDINGS{
+   margin: 20em -46em;
+    color: white;
+}
+.modus-versu{
+       margin: -26em -23em;
+    color: white;
+}
+.MEMONFEDERATION{
+          margin: 20em 4em;
+  
+}
+.FORMEHTMLCSS{
+    margin: -10em -24em;
+}
